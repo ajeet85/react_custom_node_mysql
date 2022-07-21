@@ -2,6 +2,7 @@
 ==========================================server configuration==========================
 run server =>npm run server
 
+we have a db folder for database we have to import jobthbid
 
 ===============client react =============================================react setup in client
 
